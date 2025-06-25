@@ -255,7 +255,14 @@ p{
     padding: 10px;
 }
 
-
+#skillsSection{
+    /* border: 5px black solid; */
+    width: 108%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
 
 .skillsdiv{
     
@@ -283,7 +290,7 @@ p{
 }
 
 .project{
-    width:95%;
+    width:108%;
     /* border: 5px black solid; */
    
     display: flex;
@@ -309,6 +316,16 @@ p{
     font-size: 18px;
     font-weight: 500;
    margin-top: 10px;
+ }
+#contactsection{
+    /* border: 5px black solid; */
+    width: 108%;
+    margin: auto;
+   min-height: 200px;
+   border-radius: 15px;
+   background:#F8F5E9 ;
+   padding: 10px;
+    
  }
 
 .contactbuttons{
