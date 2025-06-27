@@ -217,7 +217,7 @@ p{
  @media only screen and (max-width: 768px)
  {
     .navbar,#HeroSection{
-        width: 110%;
+        width: 100%;
     }
    #aboutMeSection{
     /* border: 5px black solid;  */
@@ -257,7 +257,7 @@ p{
 
 #skillsSection{
     /* border: 5px black solid; */
-    width: 108%;
+    width: 100%;
     margin: auto;
     display: flex;
     flex-direction: column;
@@ -290,7 +290,7 @@ p{
 }
 
 .project{
-    width:108%;
+    width:100%;
     /* border: 5px black solid; */
    
     display: flex;
@@ -319,7 +319,7 @@ p{
  }
 #contactsection{
     /* border: 5px black solid; */
-    width: 108%;
+    width: 100%;
     margin: auto;
    min-height: 200px;
    border-radius: 15px;
@@ -347,7 +347,9 @@ p{
     width: 100%;
     
  }
+     footer{
+         width:100%;
  
  
  }
-   
+ }  
